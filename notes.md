@@ -2,5 +2,6 @@
 
 Learning Git and GitHub properly.
 
-Future me will thank present me. 
+Future me will thank present me.
+ 
 Second change test.
